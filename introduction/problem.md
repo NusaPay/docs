@@ -10,11 +10,11 @@ As a next-generation cross-border payment protocol, NusaPay is specifically desi
 
 ### Fragmented Liquidity & Limited Pathways for Mass Cross-Country Payments
 
-### Problem:
+#### Problem:
 
 Traditional remittance systems, and even some existing crypto-based solutions, often operate within isolated corridors with fragmented liquidity. This makes it difficult for companies to efficiently process payroll or mass transactions to numerous recipients in various countries. The manual process of transferring funds one by one to individual bank accounts across multiple jurisdictions is time-consuming, expensive, and prone to errors.
 
-### NusaPay's Solution:
+#### NusaPay's Solution:
 
 NusaPay addresses this by facilitating seamless cross-country and cross-currency liquidity access. By enabling direct conversion of USDT to specific local currencies (e.g., IDRX for Indonesia, and other equivalent local currency representations for various target countries) and direct deposit into local bank accounts, NusaPay empowers companies to conduct efficient mass payments to numerous employees worldwide from a single, unified platform, without the need to manage individual transfers across diverse banking systems.
 
