@@ -4,7 +4,7 @@
 
 * [Overview](README.md)
 * [Problem](introduction/problem.md)
-* [Challanges](introduction/challanges.md)
+* [Challenges](introduction/challenges.md)
 
 ## HOW IT WORKS
 
