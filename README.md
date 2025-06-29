@@ -20,11 +20,11 @@ By offering a robust cross-border payment experience with a focus on efficiency,
 
 **NusaPay is a cutting-edge cross-border payment protocol** developed to serve as a foundational decentralized finance (DeFi) primitive for global remittances. It facilitates seamless asset conversion and direct bank deposits across multiple international corridors through a unified, user-friendly platform, eliminating the need for centralized custodians or traditional bridging mechanisms that often incur high fees and delays.
 
-At its core, NusaPay is powered by an advanced smart contract system, designed to manage the entire transaction lifecycle—from USDT input to local currency output—in a secure, transparent, and trustless manner. This system ensures consistency and correctness in cross-border operations, enabling reliable financial interactions at scale, with efficient local currency conversions.
+At its core, **NusaPay is powered by an advanced smart contract system, designed to manage the entire transaction lifecycle—from USDT input to local currency output—in a secure, transparent, and trustless manner**. This system ensures consistency and correctness in cross-border operations, enabling reliable financial interactions at scale, with efficient local currency conversions.
 
-To reinforce transaction integrity and ensure timely finality, NusaPay leverages established blockchain networks and secure on-chain processes for rapid and secure confirmation of cross-chain transactions, while maintaining alignment with the principles of decentralization and verifiability.
+To reinforce transaction integrity and ensure timely finality, **NusaPay leverages established blockchain networks and secure on-chain processes for rapid and secure confirmation of cross-chain transaction**s, while maintaining alignment with the principles of decentralization and verifiability.
 
-By combining an intuitive user interface with robust smart contract automation, NusaPay delivers a modular, secure, and high-performance payment platform—positioning itself as a critical driver of liquidity, adoption, and composability within the global remittance landscape.
+By combining an intuitive user interface with robust smart contract automation, NusaPay delivers a **modular, secure, and high-performance payment platform**—positioning itself as a critical driver of liquidity, adoption, and composability within the global remittance landscape.
 
 ## Key Features
 
@@ -47,6 +47,6 @@ By combining an intuitive user interface with robust smart contract automation, 
 
 Whether you are an individual sending money home, or a business managing international payments, NusaPay offers a next-generation financial infrastructure designed for efficiency, security, and composability in cross-border transfers.
 
-By leveraging cutting-edge smart contract automation, NusaPay enables seamless, trustless, and scalable payment interactions across multiple countries.
+By leveraging cutting-edge smart contract automation, **NusaPay enables seamless, trustless, and scalable payment interactions across multiple countries.**
 
 Become part of a growing ecosystem. Start sending and receiving international payments with NusaPay today!
