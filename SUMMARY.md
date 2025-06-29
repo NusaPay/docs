@@ -8,7 +8,7 @@
 
 ## HOW IT WORKS
 
-* [How We Achieve (?) gatau](how-it-works/how-we-achieve-gatau.md)
+* [How We Achieve Cross-border Payment](how-it-works/how-we-achieve-cross-border-payment.md)
 * [Cross-border Payment](how-it-works/cross-border-payment.md)
 
 ## OTHERS
